@@ -1,0 +1,4 @@
+enum ioModes {
+  inputs,
+  outputs
+};
